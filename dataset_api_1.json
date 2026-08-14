@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 30001,
+    "title": {
+      "romaji": "MONSTER"
+    },
+    "status": "FINISHED",
+    "averageScore": 90
+  },
+  {
+    "id": 30002,
+    "title": {
+      "romaji": "Berserk"
+    },
+    "status": "RELEASING",
+    "averageScore": 92
+  },
+  {
+    "id": 30003,
+    "title": {
+      "romaji": "20 Seiki Shounen"
+    },
+    "status": "FINISHED",
+    "averageScore": 88
+  },
+  {
+    "id": 30004,
+    "title": {
+      "romaji": "Yokohama Kaidashi Kikou"
+    },
+    "status": "FINISHED",
+    "averageScore": 86
+  },
+  {
+    "id": 30007,
+    "title": {
+      "romaji": "Hajime no Ippo"
+    },
+    "status": "RELEASING",
+    "averageScore": 87
+  },
+  {
+    "id": 30008,
+    "title": {
+      "romaji": "Full Moon wo Sagashite"
+    },
+    "status": "FINISHED",
+    "averageScore": 76
+  },
+  {
+    "id": 30009,
+    "title": {
+      "romaji": "Tsubasa: RESERVoir CHRoNiCLE"
+    },
+    "status": "FINISHED",
+    "averageScore": 81
+  },
+  {
+    "id": 30010,
+    "title": {
+      "romaji": "xxxHolic"
+    },
+    "status": "FINISHED",
+    "averageScore": 82
+  },
+  {
+    "id": 30011,
+    "title": {
+      "romaji": "NARUTO"
+    },
+    "status": "FINISHED",
+    "averageScore": 79
+  },
+  {
+    "id": 30012,
+    "title": {
+      "romaji": "BLEACH"
+    },
+    "status": "FINISHED",
+    "averageScore": 80
+  },
+  {
+    "id": 30013,
+    "title": {
+      "romaji": "ONE PIECE"
+    },
+    "status": "RELEASING",
+    "averageScore": 91
+  },
+  {
+    "id": 30014,
+    "title": {
+      "romaji": "Groove Adventure Rave"
+    },
+    "status": "FINISHED",
+    "averageScore": 75
+  },
+  {
+    "id": 30015,
+    "title": {
+      "romaji": "Mahou Sensei Negima!"
+    },
+    "status": "FINISHED",
+    "averageScore": 75
+  },
+  {
+    "id": 30016,
+    "title": {
+      "romaji": "Love Hina"
+    },
+    "status": "FINISHED",
+    "averageScore": 73
+  },
+  {
+    "id": 30017,
+    "title": {
+      "romaji": "Kareshi Kanojo no Jijou"
+    },
+    "status": "FINISHED",
+    "averageScore": 78
+  },
+  {
+    "id": 30018,
+    "title": {
+      "romaji": "Kodomo no Omocha"
+    },
+    "status": "FINISHED",
+    "averageScore": 81
+  },
+  {
+    "id": 30019,
+    "title": {
+      "romaji": "GetBackers"
+    },
+    "status": "FINISHED",
+    "averageScore": 73
+  },
+  {
+    "id": 30020,
+    "title": {
+      "romaji": "Hikaru no Go"
+    },
+    "status": "FINISHED",
+    "averageScore": 79
+  },
+  {
+    "id": 30021,
+    "title": {
+      "romaji": "DEATH NOTE"
+    },
+    "status": "FINISHED",
+    "averageScore": 84
+  },
+  {
+    "id": 30022,
+    "title": {
+      "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+    },
+    "status": "FINISHED",
+    "averageScore": 82
+  },
+  {
+    "id": 30023,
+    "title": {
+      "romaji": "Ranma 1/2"
+    },
+    "status": "FINISHED",
+    "averageScore": 78
+  },
+  {
+    "id": 30024,
+    "title": {
+      "romaji": "D.Gray-man"
+    },
+    "status": "RELEASING",
+    "averageScore": 81
+  },
+  {
+    "id": 30025,
+    "title": {
+      "romaji": "Hagane no Renkinjutsushi"
+    },
+    "status": "FINISHED",
+    "averageScore": 89
+  },
+  {
+    "id": 30026,
+    "title": {
+      "romaji": "HUNTER×HUNTER"
+    },
+    "status": "RELEASING",
+    "averageScore": 88
+  },
+  {
+    "id": 30027,
+    "title": {
+      "romaji": "X"
+    },
+    "status": "RELEASING",
+    "averageScore": 79
+  },
+  {
+    "id": 30028,
+    "title": {
+      "romaji": "NANA"
+    },
+    "status": "RELEASING",
+    "averageScore": 88
+  },
+  {
+    "id": 30029,
+    "title": {
+      "romaji": "Paradise Kiss"
+    },
+    "status": "FINISHED",
+    "averageScore": 81
+  },
+  {
+    "id": 30030,
+    "title": {
+      "romaji": "Ouran Koukou Host Club"
+    },
+    "status": "FINISHED",
+    "averageScore": 83
+  },
+  {
+    "id": 30031,
+    "title": {
+      "romaji": "Lovely★Complex"
+    },
+    "status": "FINISHED",
+    "averageScore": 81
+  },
+  {
+    "id": 30032,
+    "title": {
+      "romaji": "666: Satan"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30033,
+    "title": {
+      "romaji": "Pita-Ten"
+    },
+    "status": "FINISHED",
+    "averageScore": 69
+  },
+  {
+    "id": 30034,
+    "title": {
+      "romaji": "Di Gi Charat: Koushiki Comic Anthology"
+    },
+    "status": "FINISHED",
+    "averageScore": 55
+  },
+  {
+    "id": 30035,
+    "title": {
+      "romaji": "Kamichama Karin"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30036,
+    "title": {
+      "romaji": "Kamikaze Kaitou Jeanne"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30037,
+    "title": {
+      "romaji": "Shinshi Doumei Cross"
+    },
+    "status": "FINISHED",
+    "averageScore": 72
+  },
+  {
+    "id": 30038,
+    "title": {
+      "romaji": "+Anima"
+    },
+    "status": "FINISHED",
+    "averageScore": 72
+  },
+  {
+    "id": 30039,
+    "title": {
+      "romaji": "ZOMBIE POWDER."
+    },
+    "status": "FINISHED",
+    "averageScore": 62
+  },
+  {
+    "id": 30040,
+    "title": {
+      "romaji": "Black Cat"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30041,
+    "title": {
+      "romaji": "Busou Renkin"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30042,
+    "title": {
+      "romaji": "Dragon Ball"
+    },
+    "status": "FINISHED",
+    "averageScore": 84
+  },
+  {
+    "id": 30043,
+    "title": {
+      "romaji": "Eyeshield 21"
+    },
+    "status": "FINISHED",
+    "averageScore": 82
+  },
+  {
+    "id": 30044,
+    "title": {
+      "romaji": "Gintama"
+    },
+    "status": "FINISHED",
+    "averageScore": 86
+  },
+  {
+    "id": 30045,
+    "title": {
+      "romaji": "Ichigo 100%"
+    },
+    "status": "FINISHED",
+    "averageScore": 73
+  },
+  {
+    "id": 30046,
+    "title": {
+      "romaji": "Kannade"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30047,
+    "title": {
+      "romaji": "Katekyo Hitman REBORN!"
+    },
+    "status": "FINISHED",
+    "averageScore": 77
+  },
+  {
+    "id": 30048,
+    "title": {
+      "romaji": "Pretty Face"
+    },
+    "status": "FINISHED",
+    "averageScore": 69
+  },
+  {
+    "id": 30049,
+    "title": {
+      "romaji": "Tennis no Ouji-sama"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30050,
+    "title": {
+      "romaji": "Shaman King"
+    },
+    "status": "FINISHED",
+    "averageScore": 76
+  },
+  {
+    "id": 30051,
+    "title": {
+      "romaji": "SLAM DUNK"
+    },
+    "status": "FINISHED",
+    "averageScore": 90
+  },
+  {
+    "id": 30052,
+    "title": {
+      "romaji": "Whistle!"
+    },
+    "status": "FINISHED",
+    "averageScore": 73
+  },
+  {
+    "id": 30053,
+    "title": {
+      "romaji": "Yuu☆Yuu☆Hakusho"
+    },
+    "status": "FINISHED",
+    "averageScore": 80
+  },
+  {
+    "id": 30054,
+    "title": {
+      "romaji": "Yu☆Gi☆Oh!"
+    },
+    "status": "FINISHED",
+    "averageScore": 77
+  },
+  {
+    "id": 30055,
+    "title": {
+      "romaji": "Aishiteruze Baby★★"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30056,
+    "title": {
+      "romaji": "Caramel Diary"
+    },
+    "status": "FINISHED",
+    "averageScore": 53
+  },
+  {
+    "id": 30057,
+    "title": {
+      "romaji": "Hanazakari no Kimitachi e"
+    },
+    "status": "FINISHED",
+    "averageScore": 78
+  },
+  {
+    "id": 30058,
+    "title": {
+      "romaji": "W-Juliet"
+    },
+    "status": "FINISHED",
+    "averageScore": 71
+  },
+  {
+    "id": 30059,
+    "title": {
+      "romaji": "√W.P.B."
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30060,
+    "title": {
+      "romaji": "π"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30061,
+    "title": {
+      "romaji": "Seito no Shucho Kyoushi no Honbun"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30062,
+    "title": {
+      "romaji": "± Junkie"
+    },
+    "status": "FINISHED",
+    "averageScore": 50
+  },
+  {
+    "id": 30063,
+    "title": {
+      "romaji": "\"Aru to\" no \"A\""
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30064,
+    "title": {
+      "romaji": "13-nichi wa Kinyoubi?"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30065,
+    "title": {
+      "romaji": "17-sai: Hajimete no H"
+    },
+    "status": "FINISHED",
+    "averageScore": 52
+  },
+  {
+    "id": 30066,
+    "title": {
+      "romaji": "2x2=Shinobuden"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30067,
+    "title": {
+      "romaji": "2001-ya Monogatari"
+    },
+    "status": "FINISHED",
+    "averageScore": 72
+  },
+  {
+    "id": 30068,
+    "title": {
+      "romaji": "3.3.7 Byooshi!!"
+    },
+    "status": "FINISHED",
+    "averageScore": 60
+  },
+  {
+    "id": 30069,
+    "title": {
+      "romaji": "\"Suki\" to Ienai."
+    },
+    "status": "FINISHED",
+    "averageScore": 55
+  },
+  {
+    "id": 30070,
+    "title": {
+      "romaji": "Übel Blatt"
+    },
+    "status": "FINISHED",
+    "averageScore": 70
+  },
+  {
+    "id": 30071,
+    "title": {
+      "romaji": "Zettai Kareshi"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30072,
+    "title": {
+      "romaji": "Abenobashi Mahou☆Shoutengai"
+    },
+    "status": "FINISHED",
+    "averageScore": 53
+  },
+  {
+    "id": 30073,
+    "title": {
+      "romaji": "Tenjou Tenge"
+    },
+    "status": "FINISHED",
+    "averageScore": 67
+  },
+  {
+    "id": 30074,
+    "title": {
+      "romaji": "Air Gear"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30075,
+    "title": {
+      "romaji": "Ai Yori Aoshi"
+    },
+    "status": "FINISHED",
+    "averageScore": 69
+  },
+  {
+    "id": 30076,
+    "title": {
+      "romaji": "Aka-chan to Boku"
+    },
+    "status": "FINISHED",
+    "averageScore": 73
+  },
+  {
+    "id": 30077,
+    "title": {
+      "romaji": "Alice 19th"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30078,
+    "title": {
+      "romaji": "ALICHINO"
+    },
+    "status": "FINISHED",
+    "averageScore": 60
+  },
+  {
+    "id": 30079,
+    "title": {
+      "romaji": "Sora wa Akai Kawa no Hotori"
+    },
+    "status": "FINISHED",
+    "averageScore": 76
+  },
+  {
+    "id": 30080,
+    "title": {
+      "romaji": "ANGELIC LAYER"
+    },
+    "status": "FINISHED",
+    "averageScore": 66
+  },
+  {
+    "id": 30081,
+    "title": {
+      "romaji": "ARIA"
+    },
+    "status": "FINISHED",
+    "averageScore": 86
+  },
+  {
+    "id": 30083,
+    "title": {
+      "romaji": "Ayashi no Ceres"
+    },
+    "status": "FINISHED",
+    "averageScore": 69
+  },
+  {
+    "id": 30084,
+    "title": {
+      "romaji": "Fushigi Yuugi"
+    },
+    "status": "FINISHED",
+    "averageScore": 71
+  },
+  {
+    "id": 30085,
+    "title": {
+      "romaji": "Azumanga Daiou"
+    },
+    "status": "FINISHED",
+    "averageScore": 82
+  },
+  {
+    "id": 30086,
+    "title": {
+      "romaji": "Time Stranger KYOKO"
+    },
+    "status": "FINISHED",
+    "averageScore": 64
+  },
+  {
+    "id": 30087,
+    "title": {
+      "romaji": "tactics"
+    },
+    "status": "FINISHED",
+    "averageScore": 57
+  },
+  {
+    "id": 30088,
+    "title": {
+      "romaji": "ANGEL/DUST"
+    },
+    "status": "FINISHED",
+    "averageScore": 55
+  },
+  {
+    "id": 30089,
+    "title": {
+      "romaji": "GALS!"
+    },
+    "status": "FINISHED",
+    "averageScore": 67
+  },
+  {
+    "id": 30090,
+    "title": {
+      "romaji": "LOVELESS"
+    },
+    "status": "RELEASING",
+    "averageScore": 67
+  },
+  {
+    "id": 30091,
+    "title": {
+      "romaji": "Marmalade Boy"
+    },
+    "status": "FINISHED",
+    "averageScore": 72
+  },
+  {
+    "id": 30092,
+    "title": {
+      "romaji": "Bishoujo Senshi Sailor Moon"
+    },
+    "status": "FINISHED",
+    "averageScore": 80
+  },
+  {
+    "id": 30093,
+    "title": {
+      "romaji": "Megami Kouhosei"
+    },
+    "status": "FINISHED",
+    "averageScore": 59
+  },
+  {
+    "id": 30094,
+    "title": {
+      "romaji": "D・N・ANGEL"
+    },
+    "status": "FINISHED",
+    "averageScore": 69
+  },
+  {
+    "id": 30095,
+    "title": {
+      "romaji": "Lagoon Engine"
+    },
+    "status": "CANCELLED",
+    "averageScore": 53
+  },
+  {
+    "id": 30096,
+    "title": {
+      "romaji": "Lagoon Engine Einsatz"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30097,
+    "title": {
+      "romaji": "DearS"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30098,
+    "title": {
+      "romaji": "Rozen Maiden"
+    },
+    "status": "FINISHED",
+    "averageScore": 75
+  },
+  {
+    "id": 30099,
+    "title": {
+      "romaji": "ZOMBIE-LOAN"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30100,
+    "title": {
+      "romaji": "Prism Palette"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30101,
+    "title": {
+      "romaji": "Shugo Chara!"
+    },
+    "status": "FINISHED",
+    "averageScore": 73
+  },
+  {
+    "id": 30102,
+    "title": {
+      "romaji": "Fruits Basket"
+    },
+    "status": "FINISHED",
+    "averageScore": 85
+  },
+  {
+    "id": 30103,
+    "title": {
+      "romaji": "Never Give Up!"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30104,
+    "title": {
+      "romaji": "Yotsuba to!"
+    },
+    "status": "RELEASING",
+    "averageScore": 88
+  },
+  {
+    "id": 30105,
+    "title": {
+      "romaji": "Kekkaishi"
+    },
+    "status": "FINISHED",
+    "averageScore": 77
+  },
+  {
+    "id": 30106,
+    "title": {
+      "romaji": "Cardcaptor Sakura"
+    },
+    "status": "FINISHED",
+    "averageScore": 82
+  },
+  {
+    "id": 30107,
+    "title": {
+      "romaji": "Chobits"
+    },
+    "status": "FINISHED",
+    "averageScore": 75
+  },
+  {
+    "id": 30108,
+    "title": {
+      "romaji": "Gohou Drug"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30109,
+    "title": {
+      "romaji": "Wish"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30110,
+    "title": {
+      "romaji": "AI ga Tomaranai!"
+    },
+    "status": "FINISHED",
+    "averageScore": 60
+  },
+  {
+    "id": 30111,
+    "title": {
+      "romaji": "Mahoromatic"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30112,
+    "title": {
+      "romaji": "Shin Shunkaden"
+    },
+    "status": "FINISHED",
+    "averageScore": 59
+  },
+  {
+    "id": 30113,
+    "title": {
+      "romaji": "CLOVER"
+    },
+    "status": "FINISHED",
+    "averageScore": 71
+  },
+  {
+    "id": 30114,
+    "title": {
+      "romaji": "Erementar Gerad"
+    },
+    "status": "FINISHED",
+    "averageScore": 67
+  },
+  {
+    "id": 30115,
+    "title": {
+      "romaji": "EREMENTAR GERAD: Aozora no Senki"
+    },
+    "status": "RELEASING",
+    "averageScore": 58
+  },
+  {
+    "id": 30116,
+    "title": {
+      "romaji": ".hack//G.U.+"
+    },
+    "status": "FINISHED",
+    "averageScore": 67
+  },
+  {
+    "id": 30117,
+    "title": {
+      "romaji": ".hack//Tasogare no Udewa Densetsu"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30118,
+    "title": {
+      "romaji": "Kobato."
+    },
+    "status": "FINISHED",
+    "averageScore": 76
+  },
+  {
+    "id": 30119,
+    "title": {
+      "romaji": "Magic Knight Rayearth"
+    },
+    "status": "FINISHED",
+    "averageScore": 72
+  },
+  {
+    "id": 30120,
+    "title": {
+      "romaji": "Maburaho"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30121,
+    "title": {
+      "romaji": "Hotel Africa"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30122,
+    "title": {
+      "romaji": "Angel Cup"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30123,
+    "title": {
+      "romaji": "Tenshi no Su"
+    },
+    "status": "FINISHED",
+    "averageScore": 58
+  },
+  {
+    "id": 30124,
+    "title": {
+      "romaji": "AQUA"
+    },
+    "status": "FINISHED",
+    "averageScore": 77
+  },
+  {
+    "id": 30125,
+    "title": {
+      "romaji": "Arcana"
+    },
+    "status": "FINISHED",
+    "averageScore": 51
+  },
+  {
+    "id": 30126,
+    "title": {
+      "romaji": "Archlord"
+    },
+    "status": "FINISHED",
+    "averageScore": 52
+  },
+  {
+    "id": 30127,
+    "title": {
+      "romaji": "Ark Angels"
+    },
+    "status": "FINISHED",
+    "averageScore": 46
+  },
+  {
+    "id": 30128,
+    "title": {
+      "romaji": "Petshop of Horrors"
+    },
+    "status": "FINISHED",
+    "averageScore": 78
+  },
+  {
+    "id": 30129,
+    "title": {
+      "romaji": "Birth"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30130,
+    "title": {
+      "romaji": "CLAMP Gakuen Tanteidan"
+    },
+    "status": "FINISHED",
+    "averageScore": 62
+  },
+  {
+    "id": 30131,
+    "title": {
+      "romaji": "Aromatic Bitters"
+    },
+    "status": "FINISHED",
+    "averageScore": 54
+  },
+  {
+    "id": 30132,
+    "title": {
+      "romaji": "B't X"
+    },
+    "status": "FINISHED",
+    "averageScore": 56
+  },
+  {
+    "id": 30133,
+    "title": {
+      "romaji": "Tokyo BABYLON"
+    },
+    "status": "FINISHED",
+    "averageScore": 76
+  },
+  {
+    "id": 30134,
+    "title": {
+      "romaji": "MÄR"
+    },
+    "status": "FINISHED",
+    "averageScore": 70
+  },
+  {
+    "id": 30135,
+    "title": {
+      "romaji": "MÄR Ω"
+    },
+    "status": "FINISHED",
+    "averageScore": 53
+  },
+  {
+    "id": 30136,
+    "title": {
+      "romaji": "Rekka no Honoo"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30137,
+    "title": {
+      "romaji": "R.O.D: READ OR DIE"
+    },
+    "status": "FINISHED",
+    "averageScore": 61
+  },
+  {
+    "id": 30138,
+    "title": {
+      "romaji": "Baby Birth"
+    },
+    "status": "FINISHED",
+    "averageScore": 45
+  },
+  {
+    "id": 30139,
+    "title": {
+      "romaji": "Baku"
+    },
+    "status": "FINISHED",
+    "averageScore": 53
+  },
+  {
+    "id": 30140,
+    "title": {
+      "romaji": "Bakuretsu Hunters"
+    },
+    "status": "FINISHED",
+    "averageScore": 54
+  },
+  {
+    "id": 30141,
+    "title": {
+      "romaji": "Battle Club"
+    },
+    "status": "FINISHED",
+    "averageScore": 56
+  },
+  {
+    "id": 30142,
+    "title": {
+      "romaji": "Battle Royale"
+    },
+    "status": "FINISHED",
+    "averageScore": 74
+  },
+  {
+    "id": 30143,
+    "title": {
+      "romaji": "beautiful people"
+    },
+    "status": "FINISHED",
+    "averageScore": 63
+  },
+  {
+    "id": 30144,
+    "title": {
+      "romaji": "Kamisama da Mono♥"
+    },
+    "status": "FINISHED",
+    "averageScore": 52
+  },
+  {
+    "id": 30145,
+    "title": {
+      "romaji": "BECK"
+    },
+    "status": "FINISHED",
+    "averageScore": 86
+  },
+  {
+    "id": 30146,
+    "title": {
+      "romaji": "Sheets no Sukima"
+    },
+    "status": "FINISHED",
+    "averageScore": 57
+  },
+  {
+    "id": 30147,
+    "title": {
+      "romaji": "Sono Mukou no Mukougawa"
+    },
+    "status": "FINISHED",
+    "averageScore": 56
+  },
+  {
+    "id": 30148,
+    "title": {
+      "romaji": "Bird Kiss"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30149,
+    "title": {
+      "romaji": "BLAME!"
+    },
+    "status": "FINISHED",
+    "averageScore": 81
+  },
+  {
+    "id": 30150,
+    "title": {
+      "romaji": "Western Shotgun"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30151,
+    "title": {
+      "romaji": "Yato no Kamitsukai"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30152,
+    "title": {
+      "romaji": "Boys Be ..."
+    },
+    "status": "FINISHED",
+    "averageScore": 51
+  },
+  {
+    "id": 30153,
+    "title": {
+      "romaji": "Boys Be... 2nd Season"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30155,
+    "title": {
+      "romaji": "Brain Powerd"
+    },
+    "status": "FINISHED",
+    "averageScore": 51
+  },
+  {
+    "id": 30156,
+    "title": {
+      "romaji": "Sennen no Yuki"
+    },
+    "status": "FINISHED",
+    "averageScore": 70
+  },
+  {
+    "id": 30157,
+    "title": {
+      "romaji": "Imadoki!"
+    },
+    "status": "FINISHED",
+    "averageScore": 67
+  },
+  {
+    "id": 30158,
+    "title": {
+      "romaji": "Ghost Hunt"
+    },
+    "status": "FINISHED",
+    "averageScore": 77
+  },
+  {
+    "id": 30159,
+    "title": {
+      "romaji": "Brave Story: Shinsetsu"
+    },
+    "status": "FINISHED",
+    "averageScore": 55
+  },
+  {
+    "id": 30160,
+    "title": {
+      "romaji": "School Rumble"
+    },
+    "status": "FINISHED",
+    "averageScore": 78
+  },
+  {
+    "id": 30161,
+    "title": {
+      "romaji": "BRIGADOON: Marin to Melan"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30162,
+    "title": {
+      "romaji": "Bus Gamer"
+    },
+    "status": "CANCELLED",
+    "averageScore": 57
+  },
+  {
+    "id": 30163,
+    "title": {
+      "romaji": "Kimi ni Shika Kikoenai"
+    },
+    "status": "FINISHED",
+    "averageScore": 63
+  },
+  {
+    "id": 30164,
+    "title": {
+      "romaji": "Nousatsu Junkie"
+    },
+    "status": "FINISHED",
+    "averageScore": 75
+  },
+  {
+    "id": 30165,
+    "title": {
+      "romaji": "Cherry Juice"
+    },
+    "status": "FINISHED",
+    "averageScore": 62
+  },
+  {
+    "id": 30166,
+    "title": {
+      "romaji": "Chou Shinri Genshou Nouryokusha Nanaki"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30167,
+    "title": {
+      "romaji": "Pageomgi"
+    },
+    "status": "FINISHED",
+    "averageScore": 53
+  },
+  {
+    "id": 30168,
+    "title": {
+      "romaji": "Riverside"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30169,
+    "title": {
+      "romaji": "Comic Party"
+    },
+    "status": "FINISHED",
+    "averageScore": 57
+  },
+  {
+    "id": 30170,
+    "title": {
+      "romaji": "Mondaiteiki Sakuhinshuu"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30171,
+    "title": {
+      "romaji": "Deai"
+    },
+    "status": "FINISHED",
+    "averageScore": 58
+  },
+  {
+    "id": 30172,
+    "title": {
+      "romaji": "Corrector Yui"
+    },
+    "status": "FINISHED",
+    "averageScore": 54
+  },
+  {
+    "id": 30173,
+    "title": {
+      "romaji": "Cowboy Bebop"
+    },
+    "status": "FINISHED",
+    "averageScore": 67
+  },
+  {
+    "id": 30174,
+    "title": {
+      "romaji": "Shooting Star Bebop: Cowboy Bebop"
+    },
+    "status": "FINISHED",
+    "averageScore": 59
+  },
+  {
+    "id": 30175,
+    "title": {
+      "romaji": "Touhou Sangetsusei: Eastern and Little Nature Deity"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30176,
+    "title": {
+      "romaji": "Chocotto Sister"
+    },
+    "status": "FINISHED",
+    "averageScore": 62
+  },
+  {
+    "id": 30177,
+    "title": {
+      "romaji": "Tsuiteru Kanojo"
+    },
+    "status": "FINISHED",
+    "averageScore": 54
+  },
+  {
+    "id": 30178,
+    "title": {
+      "romaji": "Bokutachi wa Asu ni Mukatte Ikiru no da"
+    },
+    "status": "FINISHED",
+    "averageScore": 62
+  },
+  {
+    "id": 30179,
+    "title": {
+      "romaji": "Color"
+    },
+    "status": "FINISHED",
+    "averageScore": 61
+  },
+  {
+    "id": 30180,
+    "title": {
+      "romaji": "Zurui Otoko"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30181,
+    "title": {
+      "romaji": "Zombieya Reiko"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30182,
+    "title": {
+      "romaji": "Zombie Hunter"
+    },
+    "status": "CANCELLED",
+    "averageScore": 55
+  },
+  {
+    "id": 30183,
+    "title": {
+      "romaji": "Zoku Shishunki Miman Okotowari"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30184,
+    "title": {
+      "romaji": "Shishunki Miman Okotowari"
+    },
+    "status": "FINISHED",
+    "averageScore": 54
+  },
+  {
+    "id": 30185,
+    "title": {
+      "romaji": "Shishunki Miman Okotowari Kanketsu-hen"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30186,
+    "title": {
+      "romaji": "Zoku Kindan no Koi wo Shiyou"
+    },
+    "status": "FINISHED",
+    "averageScore": 59
+  },
+  {
+    "id": 30187,
+    "title": {
+      "romaji": "Kindan no Koi wo Shiyou"
+    },
+    "status": "FINISHED",
+    "averageScore": 63
+  },
+  {
+    "id": 30188,
+    "title": {
+      "romaji": "Kindan no Koi de Ikou"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30190,
+    "title": {
+      "romaji": "Juunikyuu de Tsukamaete"
+    },
+    "status": "FINISHED",
+    "averageScore": 65
+  },
+  {
+    "id": 30191,
+    "title": {
+      "romaji": "Zipang"
+    },
+    "status": "FINISHED",
+    "averageScore": 69
+  },
+  {
+    "id": 30192,
+    "title": {
+      "romaji": "Zip-Up Boy"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30193,
+    "title": {
+      "romaji": "Zig☆Zag"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30194,
+    "title": {
+      "romaji": "MAI"
+    },
+    "status": "FINISHED",
+    "averageScore": 58
+  },
+  {
+    "id": 30195,
+    "title": {
+      "romaji": "Zig X Zag"
+    },
+    "status": "FINISHED",
+    "averageScore": null
+  },
+  {
+    "id": 30196,
+    "title": {
+      "romaji": "Zeus"
+    },
+    "status": "FINISHED",
+    "averageScore": 48
+  },
+  {
+    "id": 30197,
+    "title": {
+      "romaji": "Zettai Unmei Houteishiki"
+    },
+    "status": "FINISHED",
+    "averageScore": 55
+  },
+  {
+    "id": 30198,
+    "title": {
+      "romaji": "Gravity Eyes"
+    },
+    "status": "FINISHED",
+    "averageScore": 61
+  },
+  {
+    "id": 30199,
+    "title": {
+      "romaji": "Ningyo no Mori"
+    },
+    "status": "FINISHED",
+    "averageScore": 70
+  },
+  {
+    "id": 30200,
+    "title": {
+      "romaji": "Tsumasaki ni Kiss"
+    },
+    "status": "FINISHED",
+    "averageScore": 59
+  },
+  {
+    "id": 30201,
+    "title": {
+      "romaji": "Kidou Keisatsu Patlabor"
+    },
+    "status": "FINISHED",
+    "averageScore": 68
+  },
+  {
+    "id": 30202,
+    "title": {
+      "romaji": "9th Sleep"
+    },
+    "status": "FINISHED",
+    "averageScore": 52
+  },
+  {
+    "id": 30203,
+    "title": {
+      "romaji": "Ai no Chikara de Koi wo Suru no da"
+    },
+    "status": "FINISHED",
+    "averageScore": 53
+  },
+  {
+    "id": 30204,
+    "title": {
+      "romaji": "Ai no Kotodama"
+    },
+    "status": "FINISHED",
+    "averageScore": 57
+  },
+  {
+    "id": 30205,
+    "title": {
+      "romaji": "Akutai wa Toiki to Mazariau"
+    },
+    "status": "FINISHED",
+    "averageScore": 55
+  }
+]
