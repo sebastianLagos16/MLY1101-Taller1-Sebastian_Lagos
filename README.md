@@ -7,5 +7,7 @@ API 2: Kitsu API
 API 3: MangaDex API
 
 Registros API 1: [API 1: 200 registros - dataset_api_1.json]
+
 Registros API 2: [API 2: 200 registros - dataset_api_2.json]
+
 Registros API 3: [API 3: 224 registros - dataset_api_3.json]
